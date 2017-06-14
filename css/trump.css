@@ -1,3 +1,8 @@
 .fondonav{
   background: black;
 }
+
+#gifTrump, .jumbotron{
+  margin-top: 50px;
+  margin-left: 130px;
+}
